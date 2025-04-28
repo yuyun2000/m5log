@@ -6,7 +6,7 @@ pulsar2 build --input decoder-zh.onnx --config config_decoder_u16.json --output_
 原始量化，到最后两层相似度才变得很低：
 
 
-![alt text](<Pasted image 20250428112216.png>)
+![alt text](<./file/Pasted image 20250428112216.png>)
 
 把leakyrelu后的层变为fp32，配置文件夹中添加：
 ```
@@ -20,7 +20,7 @@ pulsar2 build --input decoder-zh.onnx --config config_decoder_u16.json --output_
     },
 ```
 转出来还是这样：
-![alt text](<Pasted image 20250428112319.png>)
+![alt text](<./file/Pasted image 20250428112319.png>)
 
 可以看到在relu前多了一个反量化的linear，从U16变成FP32，但是之后再过relu相似度并没有提升
 并且后续步骤直接报错，版本号为：
