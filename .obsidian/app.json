@@ -3,5 +3,5 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "file"
 }
