@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melotts相关/英语模型底噪问题.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语模型底噪问题"
+              "title": "g2p的一些问题及解决"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "英语模型底噪问题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Melotts相关/英语模型底噪问题.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "英语模型底噪问题 的反向链接列表"
+              "title": "g2p的一些问题及解决 的反向链接列表"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Melotts相关/英语模型底噪问题.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "英语模型底噪问题 的出链列表"
+              "title": "g2p的一些问题及解决 的出链列表"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Melotts相关/英语模型底噪问题.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "英语模型底噪问题 的大纲"
+              "title": "g2p的一些问题及解决 的大纲"
             }
           }
         ]
@@ -184,12 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd9ceb95cc9b8da6",
+  "active": "586720b50d8d4e61",
   "lastOpenFiles": [
+    "Melotts相关/英语模型底噪问题.md",
+    "file/melojp.wav",
     "Melotts相关/melotts-decoder转出的问题-.md",
     "Melotts相关/g2p的一些问题及解决.md",
     "README.md",
-    "Melotts相关/英语模型底噪问题.md",
     "file/test.wav",
     "file/Pasted image 20250429152259.png",
     "技巧相关/obsidian保持附件的markdown排版.md",
