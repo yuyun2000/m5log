@@ -89,3 +89,7 @@ yamain.common.error.CodeException: (<ErrorCode.NPUBackendError: 8>, OpBuildExcep
 转换时精度都变成了0.99
 
 有什么办法可以把末尾几层加上并且以fp32导出？
+
+
+
+![[../file/Pasted image 20250428112216.png]]
