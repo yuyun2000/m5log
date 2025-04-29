@@ -5,10 +5,10 @@ ob中插入图片直接复制即可，显示的内容是：`![[]]`
 
 然后按Ctrl P 
 
-![[../file/Pasted image 20250429115418.png|Pasted image 20250429115418.png]]
+![Pasted image 20250429115418.png](Pasted%20image%2020250429115418.png)
 
 输入这条命令
 
-![[../file/Pasted image 20250429115431.png|Pasted image 20250429115431.png]]
+![Pasted image 20250429115431.png](Pasted%20image%2020250429115431.png)
 
 就会把这个路径变成md可读的路径了

@@ -6,7 +6,7 @@
   ],
   "includePaths": [],
   "shouldChangeNoteBacklinksDisplayText": true,
-  "shouldCollectAttachmentsAutomatically": false,
+  "shouldCollectAttachmentsAutomatically": true,
   "shouldDeleteAttachmentsWithNote": false,
   "shouldDeleteExistingFilesWhenMovingNote": false,
   "shouldMoveAttachmentsWithNote": false,
