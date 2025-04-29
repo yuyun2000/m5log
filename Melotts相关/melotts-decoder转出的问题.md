@@ -92,3 +92,27 @@ yamain.common.error.CodeException: (<ErrorCode.NPUBackendError: 8>, OpBuildExcep
 
 
 
+经过debug，我发现中文模型不管最后两层是不是fp32，对最后音频的输出均没有影响：
+
+原始不切断decoder的音频
+![](../file/melozh-ncut.wav)
+
+把末尾两层单独取出来cpu实现的音频
+![](../file/melo-cutdecoder.wav)
+
+他们在波形上也差不多，听感也没区别：
+![](../file/Pasted%20image%2020250429121515.png)
+
+但是英语模型转出的音频就有问题了，有明显的底噪：
+
+![](../file/Pasted%20image%2020250429121636.png)
+
+
+![](../file/meloen-ncut.wav)
+
+就是图上标红的部分，听感也很不好，需要找一下原因
+
+
+
+
+
