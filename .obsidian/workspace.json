@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "g2p的一些问题及解决"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "g2p的一些问题及解决 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "g2p的一些问题及解决 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Melotts相关/g2p的一些问题及解决.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "g2p的一些问题及解决 的大纲"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
-    "Melotts相关/英语模型底噪问题.md",
     "README.md",
+    "Melotts相关/g2p的一些问题及解决.md",
+    "Melotts相关/英语模型底噪问题.md",
     "file/test.wav",
     "Melotts相关/melotts-decoder转出的问题-.md",
     "file/Pasted image 20250429152259.png",
