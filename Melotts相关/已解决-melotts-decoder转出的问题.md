@@ -5,7 +5,7 @@ pulsar2 build --input decoder-zh.onnx --config config_decoder_u16.json --output_
 
 原始量化，到最后两层相似度才变得很低：
 
-![](../file/Pasted%20image%2020250428112216.png)
+![](Pasted%20image%2020250428112216.png)
 
 
 把leakyrelu后的层变为fp32，配置文件夹中添加：
@@ -20,7 +20,7 @@ pulsar2 build --input decoder-zh.onnx --config config_decoder_u16.json --output_
     },
 ```
 转出来还是这样：
-![](../file/Pasted%20image%2020250428112319.png)
+![](Pasted%20image%2020250428112319.png)
 
 可以看到在relu前多了一个反量化的linear，从U16变成FP32，但是之后再过relu相似度并没有提升
 并且后续步骤直接报错，版本号为：
@@ -95,20 +95,20 @@ yamain.common.error.CodeException: (<ErrorCode.NPUBackendError: 8>, OpBuildExcep
 经过debug，我发现中文模型不管最后两层是不是fp32，对最后音频的输出均没有影响：
 
 原始不切断decoder的音频
-![](../file/melozh-ncut.wav)
+![](melozh-ncut.wav)
 
 把末尾两层单独取出来cpu实现的音频
-![](../file/melo-cutdecoder.wav)
+![](melo-cutdecoder.wav)
 
 他们在波形上也差不多，听感也没区别：
-![](../file/Pasted%20image%2020250429121515.png)
+![](Pasted%20image%2020250429121515.png)
 
 但是英语模型转出的音频就有问题了，有明显的底噪：
 
-![](../file/Pasted%20image%2020250429121636.png)
+![](Pasted%20image%2020250429121636.png)
 
 
-![](../file/meloen-ncut.wav)
+![](meloen-ncut.wav)
 
 就是图上标红的部分，听感也很不好，需要找一下原因
 

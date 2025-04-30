@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melotts相关/英语模型底噪问题.md",
+                "file": "Melotts相关/已解决-英语模型底噪问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语模型底噪问题"
+              "title": "已解决-英语模型底噪问题"
             }
           }
         ]
@@ -187,9 +187,9 @@
   "lastOpenFiles": [
     "Melotts相关/g2p的一些问题及解决.md",
     "Melotts相关/decoder推理流程的问题.md",
-    "Melotts相关/英语模型底噪问题.md",
+    "Melotts相关/已解决-英语模型底噪问题.md",
+    "Melotts相关/已解决-melotts-decoder转出的问题.md",
     "file/melojp.wav",
-    "Melotts相关/melotts-decoder转出的问题-.md",
     "README.md",
     "file/test.wav",
     "file/Pasted image 20250429152259.png",
