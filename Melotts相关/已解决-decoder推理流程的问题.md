@@ -24,5 +24,8 @@
 | 2     | 96-224  | 112-208 |               |
 | 3     | 192-320 | 208-304 |               |
 
-实际的代码中：
-zp_shape是encoder输出也就是decoder输入的长度
+帧间使用sola算法进行对其，具体可看：https://skiptomylou1123.gitbooks.io/note-for-automatic-speech-recognition/content/sola.html 
+
+
+
+# 2暂不解决
