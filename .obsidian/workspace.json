@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/2.初步设计流程.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.初步设计流程"
+              "title": "1.目前的需求"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatbot相关/2.初步设计流程.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2.初步设计流程 的反向链接列表"
+              "title": "1.目前的需求 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatbot相关/2.初步设计流程.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2.初步设计流程 的出链列表"
+              "title": "1.目前的需求 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatbot相关/2.初步设计流程.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.初步设计流程 的大纲"
+              "title": "1.目前的需求 的大纲"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "586720b50d8d4e61",
   "lastOpenFiles": [
-    "Chatbot相关/1.目前的需求.md",
     "Chatbot相关/3.现有消息统计.md",
     "Chatbot相关/2.初步设计流程.md",
+    "Chatbot相关/1.目前的需求.md",
     "Melotts相关/已解决-decoder推理流程的问题.md",
     "README.md",
     "Chatbot相关",
