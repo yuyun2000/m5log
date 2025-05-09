@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/10.测试记录.md",
+                "file": "Chatbot相关/3.现有消息统计以及问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.测试记录"
+              "title": "3.现有消息统计以及问题"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Melotts相关/已解决-英语模型底噪问题.md",
+                "file": "Chatbot相关/10.测试记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "已解决-英语模型底噪问题"
+              "title": "10.测试记录"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "586720b50d8d4e61",
+  "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "Chatbot相关/3.现有消息统计以及问题.md",
+    "Chatbot相关/10.测试记录.md",
+    "file/Pasted image 20250509113425.png",
+    "file/Pasted image 20250509113327.png",
+    "Melotts相关/已解决-英语模型底噪问题.md",
     "file/Pasted image 20250509111821.png",
     "file/Pasted image 20250509111744.png",
     "Chatbot相关/2.初步设计流程.md",
-    "Chatbot相关/3.现有消息统计以及问题.md",
-    "Chatbot相关/10.测试记录.md",
     "file/Pasted image 20250508171626.png",
     "file/Pasted image 20250508170711.png",
     "file/Pasted image 20250508151651.png",
@@ -201,14 +205,10 @@
     "Melotts相关/已解决-decoder推理流程的问题.md",
     "README.md",
     "Chatbot相关",
-    "Melotts相关/已解决-英语模型底噪问题.md",
     "Melotts相关/已解决-g2p的一些问题及解决.md",
     "Melotts相关/已解决-melotts-decoder转出的问题.md",
-    "file/Pasted image 20250430093010.png",
-    "file/Pasted image 20250430092845.png",
     "file/melojp.wav",
     "file/test.wav",
-    "file/Pasted image 20250429152259.png",
     "技巧相关/obsidian保持附件的markdown排版.md",
     "file/meloen-ncut.wav",
     "file/melo-cutdecoder.wav",
