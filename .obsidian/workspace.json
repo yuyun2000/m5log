@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/10.测试记录.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.测试记录"
+              "title": "1.目前的需求"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
-    "Chatbot相关/3.现有消息统计以及问题.md",
     "Chatbot相关/10.测试记录.md",
+    "Chatbot相关/3.现有消息统计以及问题.md",
     "file/Pasted image 20250512122500.png",
     "file/Pasted image 20250509115813.png",
     "file/Pasted image 20250509115733.png",
