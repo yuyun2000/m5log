@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/3.现有消息统计以及问题.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.现有消息统计以及问题"
+              "title": "1.目前的需求"
             }
           },
           {
@@ -47,8 +47,7 @@
               "title": "Pasted image 20250512122500"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd9ceb95cc9b8da6",
+  "active": "586720b50d8d4e61",
   "lastOpenFiles": [
+    "file/Pasted image 20250512182144.png",
+    "file/Pasted image 20250512182027.png",
     "Chatbot相关/10.测试记录.md",
     "Chatbot相关/3.现有消息统计以及问题.md",
+    "Chatbot相关/1.目前的需求.md",
     "file/Pasted image 20250512122500.png",
     "file/Pasted image 20250509115813.png",
     "file/Pasted image 20250509115733.png",
@@ -209,11 +211,9 @@
     "file/Pasted image 20250509113937.png",
     "file/Pasted image 20250509113907.png",
     "file/Pasted image 20250509113425.png",
-    "file/Pasted image 20250509113327.png",
     "Melotts相关/已解决-英语模型底噪问题.md",
     "Chatbot相关/2.初步设计流程.md",
     "Chatbot相关/99.火山方舟知识库计费方式.md",
-    "Chatbot相关/1.目前的需求.md",
     "Melotts相关/已解决-decoder推理流程的问题.md",
     "README.md",
     "Chatbot相关",
