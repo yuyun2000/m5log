@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "10.测试记录"
             }
+          },
+          {
+            "id": "cda5490919acbb50",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "file/Pasted image 20250512122500.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250512122500"
+            }
           }
         ],
         "currentTab": 1
@@ -186,11 +198,11 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "Chatbot相关/3.现有消息统计以及问题.md",
+    "Chatbot相关/10.测试记录.md",
     "file/Pasted image 20250512122500.png",
     "file/Pasted image 20250509115813.png",
     "file/Pasted image 20250509115733.png",
-    "Chatbot相关/3.现有消息统计以及问题.md",
-    "Chatbot相关/10.测试记录.md",
     "file/Pasted image 20250509114620.png",
     "file/Pasted image 20250509114142.png",
     "file/Pasted image 20250509114022.png",
@@ -199,7 +211,6 @@
     "file/Pasted image 20250509113425.png",
     "file/Pasted image 20250509113327.png",
     "Melotts相关/已解决-英语模型底噪问题.md",
-    "file/Pasted image 20250509111821.png",
     "Chatbot相关/2.初步设计流程.md",
     "Chatbot相关/99.火山方舟知识库计费方式.md",
     "Chatbot相关/1.目前的需求.md",
