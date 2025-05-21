@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "3fc025b0e2eec069",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "file/Pasted image 20250521143622.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250521143622"
+            }
+          },
+          {
             "id": "dd9ceb95cc9b8da6",
             "type": "leaf",
             "state": {
@@ -197,12 +209,19 @@
   },
   "active": "586720b50d8d4e61",
   "lastOpenFiles": [
+    "file/Pasted image 20250521144421.png",
+    "file/Pasted image 20250521144333.png",
+    "file/Pasted image 20250521144311.png",
+    "file/Pasted image 20250521143622.png",
+    "天气图/前期试验.md",
+    "file/Pasted image 20250521144010.png",
+    "file/Pasted image 20250521143436.png",
+    "file/Pasted image 20250521143413.png",
     "file/Pasted image 20250521142750.png",
     "file/Pasted image 20250521142033.png",
     "file/Pasted image 20250521141841.png",
     "file/Pasted image 20250521141623.png",
     "650N-HA控制/3.过程.md",
-    "天气图/前期试验.md",
     "天气图",
     "650N-HA控制/1.方案统计.md",
     "650N-HA控制/2.问题.md",
@@ -213,14 +232,7 @@
     "Chatbot相关/1.目前的需求.md",
     "Chatbot相关/7.新增其他函数.md",
     "Chatbot相关/11.最近一些消息的新旧对比.md",
-    "file/Pasted image 20250519181743.png",
-    "file/Pasted image 20250519181324.png",
-    "file/Pasted image 20250519180511.png",
-    "file/Pasted image 20250519180441.png",
     "Chatbot相关/10.测试记录.md",
-    "file/Pasted image 20250519180256.png",
-    "file/Pasted image 20250519170540.png",
-    "file/Pasted image 20250519165055.png",
     "Chatbot相关/2.初步设计流程.md",
     "Chatbot相关/5.知识库知识更新.md",
     "Chatbot相关/3.现有消息统计以及问题.md",
