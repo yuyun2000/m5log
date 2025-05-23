@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650N-HA控制/2.问题.md",
+                "file": "650N-HA控制/多个文生图模型对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.问题"
+              "title": "多个文生图模型对比"
             }
           },
           {
@@ -197,22 +197,23 @@
   },
   "active": "586720b50d8d4e61",
   "lastOpenFiles": [
+    "file/Pasted image 20250523162639.png",
+    "file/Pasted image 20250523162525.png",
+    "file/Pasted image 20250523162431.png",
+    "file/Pasted image 20250523162102.png",
+    "file/Pasted image 20250523161829.png",
+    "file/Pasted image 20250523161755.png",
+    "650N-HA控制/2.问题.md",
+    "650N-HA控制/多个文生图模型对比.md",
     "file/Pasted image 20250523105143.png",
     "file/Pasted image 20250523104904.png",
     "Chatbot相关/0.问题搜集.md",
-    "650N-HA控制/2.问题.md",
     "file/Pasted image 20250522155425.png",
     "650N-HA控制/3.过程.md",
     "file/Pasted image 20250522153716.png",
     "Chatbot相关/1.目前的需求.md",
     "650N-HA控制/1.方案统计.md",
     "file/Pasted image 20250522153012.png",
-    "file/Pasted image 20250522152939.png",
-    "file/Pasted image 20250522152908.png",
-    "file/Pasted image 20250522152851.png",
-    "file/Pasted image 20250522152707.png",
-    "file/Pasted image 20250522152450.png",
-    "file/Pasted image 20250522152411.png",
     "天气图/前期试验.md",
     "天气图",
     "Melotts相关/StackFlow-melotts tcp测试代码.md",
@@ -240,7 +241,6 @@
     "file/meloen-ncut.wav",
     "file/melo-cutdecoder.wav",
     "file/melozh-ncut.wav",
-    "obsidian保持附件的markdown排版.md",
     "file",
     "技巧相关"
   ]
