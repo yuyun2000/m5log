@@ -3,5 +3,12 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "file"
+  "attachmentFolderPath": "file",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
