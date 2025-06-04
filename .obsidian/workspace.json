@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
+                "file": "650N-HA控制/5.微调&模型导出.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1B微调模型对比qwen1.7b未微调模型"
+              "title": "5.微调&模型导出"
             }
           },
           {
@@ -183,7 +183,9 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
-    "650N-HA控制/5.微调代码.md",
+    "天气图/多个文生图模型对比.md",
+    "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
+    "650N-HA控制/5.微调&模型导出.md",
     "Chatbot相关/指标统计/6.1-3日统计.md",
     "file/Pasted image 20250603154955.png",
     "file/Pasted image 20250603154941.png",
@@ -191,7 +193,6 @@
     "file/Pasted image 20250603152904.png",
     "Chatbot相关/未命名.md",
     "Chatbot相关/指标统计",
-    "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "650N-HA控制/1.方案统计.md",
     "650N-HA控制/2.问题.md",
     "650N-HA控制/3.过程.md",
@@ -206,7 +207,6 @@
     "Chatbot相关/3.现有消息统计以及问题.md",
     "Chatbot相关/2.初步设计流程.md",
     "Chatbot相关/1.目前的需求.md",
-    "天气图/多个文生图模型对比.md",
     "file/Pasted image 20250523172736.png",
     "天气图/前期试验.md",
     "天气图",
