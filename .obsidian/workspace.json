@@ -25,15 +25,18 @@
             "id": "cda5490919acbb50",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "file/Pasted image 20250512122500.png"
+                "file": "650N-HA控制/5.微调&模型导出.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250512122500"
+              "icon": "lucide-file",
+              "title": "5.微调&模型导出"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd9ceb95cc9b8da6",
+  "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "天气图/多个文生图模型对比.md",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "650N-HA控制/5.微调&模型导出.md",
+    "file/Pasted image 20250512122500.png",
+    "天气图/多个文生图模型对比.md",
     "Chatbot相关/指标统计/6.1-3日统计.md",
     "file/Pasted image 20250603154955.png",
     "file/Pasted image 20250603154941.png",
@@ -207,7 +211,6 @@
     "Chatbot相关/3.现有消息统计以及问题.md",
     "Chatbot相关/2.初步设计流程.md",
     "Chatbot相关/1.目前的需求.md",
-    "file/Pasted image 20250523172736.png",
     "天气图/前期试验.md",
     "天气图",
     "Melotts相关/StackFlow-melotts tcp测试代码.md",
