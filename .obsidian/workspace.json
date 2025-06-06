@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650N-HA控制/5.微调&模型导出.md",
+                "file": "Chatbot相关/1.目前的需求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.微调&模型导出"
+              "title": "1.目前的需求"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "650N-HA控制/5.微调&模型导出.md",
+    "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "file/Pasted image 20250512122500.png",
     "天气图/多个文生图模型对比.md",
     "Chatbot相关/指标统计/6.1-3日统计.md",
