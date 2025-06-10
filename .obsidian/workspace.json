@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650N-HA控制/5.微调&模型导出.md",
+                "file": "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.微调&模型导出"
+              "title": "4.1B微调模型对比qwen1.7b未微调模型"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "5.微调&模型导出"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda5490919acbb50",
+  "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
-    "Chatbot相关/1.目前的需求.md",
     "650N-HA控制/5.微调&模型导出.md",
+    "Chatbot相关/1.目前的需求.md",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "file/Pasted image 20250512122500.png",
     "天气图/多个文生图模型对比.md",
