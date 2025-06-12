@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/13.模型测评系统.md",
+                "file": "技巧相关/搜索推荐-秘塔.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.模型测评系统"
+              "title": "搜索推荐-秘塔"
             }
           },
           {
@@ -185,11 +185,16 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
-    "Chatbot相关/12.新一轮问题收集-6.10.md",
-    "Chatbot相关/13.模型测评系统.md",
-    "Chatbot相关/11.最近一些消息的新旧对比.md",
+    "file/Pasted image 20250612174250.png",
+    "file/Pasted image 20250612174143.png",
+    "file/Pasted image 20250612174022.png",
+    "file/Pasted image 20250612173830.png",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
+    "技巧相关/搜索推荐-秘塔.md",
     "650N-HA控制/5.微调&模型导出.md",
+    "Chatbot相关/13.模型测评系统.md",
+    "Chatbot相关/12.新一轮问题收集-6.10.md",
+    "Chatbot相关/11.最近一些消息的新旧对比.md",
     "Chatbot相关/1.目前的需求.md",
     "file/Pasted image 20250512122500.png",
     "天气图/多个文生图模型对比.md",
@@ -207,9 +212,6 @@
     "Chatbot相关/10.测试记录.md",
     "技巧相关/neo4j安装后点击没反应.md",
     "file/Pasted image 20250526143044.png",
-    "file/Pasted image 20250526095341.png",
-    "file/Pasted image 20250526094532.png",
-    "file/Pasted image 20250526094137.png",
     "Chatbot相关/3.现有消息统计以及问题.md",
     "Chatbot相关/2.初步设计流程.md",
     "天气图/前期试验.md",
@@ -222,8 +224,6 @@
     "Chatbot相关/6.代码能力增强.md",
     "650N-HA控制",
     "Melotts相关/已解决-decoder推理流程的问题.md",
-    "Melotts相关/已解决-melotts-decoder转出的问题.md",
-    "Melotts相关/已解决-g2p的一些问题及解决.md",
     "Chatbot相关",
     "file/melojp.wav",
     "file/test.wav",
