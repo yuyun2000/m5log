@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技巧相关/搜索推荐-秘塔.md",
+                "file": "650N-HA控制/6.控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "搜索推荐-秘塔"
+              "title": "6.控制"
             }
           },
           {
@@ -185,13 +185,14 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "650N-HA控制/5.微调&模型导出.md",
+    "650N-HA控制/6.控制.md",
+    "技巧相关/搜索推荐-秘塔.md",
     "file/Pasted image 20250612174250.png",
     "file/Pasted image 20250612174143.png",
     "file/Pasted image 20250612174022.png",
     "file/Pasted image 20250612173830.png",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
-    "技巧相关/搜索推荐-秘塔.md",
-    "650N-HA控制/5.微调&模型导出.md",
     "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/12.新一轮问题收集-6.10.md",
     "Chatbot相关/11.最近一些消息的新旧对比.md",
@@ -211,7 +212,6 @@
     "file/Pasted image 20250528181115.png",
     "Chatbot相关/10.测试记录.md",
     "技巧相关/neo4j安装后点击没反应.md",
-    "file/Pasted image 20250526143044.png",
     "Chatbot相关/3.现有消息统计以及问题.md",
     "Chatbot相关/2.初步设计流程.md",
     "天气图/前期试验.md",
