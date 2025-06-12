@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/12.新一轮问题收集-6.10.md",
+                "file": "Chatbot相关/13.模型测评系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.新一轮问题收集-6.10"
+              "title": "13.模型测评系统"
             }
           },
           {
@@ -185,6 +185,8 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "Chatbot相关/12.新一轮问题收集-6.10.md",
+    "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/11.最近一些消息的新旧对比.md",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "650N-HA控制/5.微调&模型导出.md",
@@ -196,7 +198,6 @@
     "file/Pasted image 20250603154941.png",
     "file/Pasted image 20250603154657.png",
     "file/Pasted image 20250603152904.png",
-    "Chatbot相关/12.新一轮问题收集-6.10.md",
     "Chatbot相关/指标统计",
     "650N-HA控制/1.方案统计.md",
     "650N-HA控制/2.问题.md",
