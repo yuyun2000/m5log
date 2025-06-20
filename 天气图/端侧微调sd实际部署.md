@@ -11,6 +11,4 @@
 ![](d68f1e57-91ce-4694-b6d6-9dcbfb3058d2.png)
 
 
-```
-huggingface-cli download --resume-download stable-diffusion-v1-5/stable-diffusion-v1-5 --local-dir stable-diffusion-v1-5/stable-diffusion-v1-5
-```
+
