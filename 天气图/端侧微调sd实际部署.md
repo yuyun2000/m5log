@@ -9,3 +9,8 @@
 我们这个模型使用lcm扩散了4步
 手动把采样器换成dpm++ 扩散40步，效果有点改进：
 ![](d68f1e57-91ce-4694-b6d6-9dcbfb3058d2.png)
+
+
+```
+huggingface-cli download --resume-download stable-diffusion-v1-5/stable-diffusion-v1-5 --local-dir stable-diffusion-v1-5/stable-diffusion-v1-5
+```
