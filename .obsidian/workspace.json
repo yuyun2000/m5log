@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天气图/端侧sd效果.md",
+                "file": "天气图/端侧微调sd实际部署.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "端侧sd效果"
+              "title": "端侧微调sd实际部署"
             }
           },
           {
@@ -185,6 +185,11 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "file/Pasted image 20250620111523.png",
+    "file/1ee3ea7a-68c3-46c3-aa9b-89c99b8db5b8.png",
+    "天气图/多个文生图模型对比.md",
+    "天气图/端侧微调sd实际部署.md",
+    "天气图/端侧sd效果.md",
     "file/f859c859-2011-460f-8169-23fc0f5eca30.jpg",
     "file/sd.bmp",
     "file/e750984d-cd26-4ec0-a22f-b083810ff75b.png",
@@ -193,14 +198,10 @@
     "file/50d92000-bcb1-46b4-aa28-30d3b3dc5c6f.png",
     "file/365b112f-fbc5-4192-af01-960f60c7bb69.png",
     "file/ec43ba9d-6869-4216-8f0a-1b8fd839f211.png",
-    "天气图/多个文生图模型对比.md",
-    "天气图/端侧sd效果.md",
     "file/cff053fb-c4aa-4a02-a7bc-b281b93ab47c.png",
     "650N-HA控制/6.控制.md",
     "650N-HA控制/5.微调&模型导出.md",
     "技巧相关/搜索推荐-秘塔.md",
-    "file/Pasted image 20250612174250.png",
-    "file/Pasted image 20250612174143.png",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/12.新一轮问题收集-6.10.md",
@@ -222,7 +223,6 @@
     "技巧相关/阿里云DDNS自动更新记录值的脚本.md",
     "Chatbot相关/4.创建mcp服务器.md",
     "Chatbot相关/7.新增其他函数.md",
-    "Chatbot相关/5.知识库知识更新.md",
     "650N-HA控制",
     "Chatbot相关",
     "file/melojp.wav",
