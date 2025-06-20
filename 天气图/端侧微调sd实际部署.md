@@ -1,5 +1,5 @@
 使用c站上的1.5模型，直接替换掉unet其余不变的情况下进行生成，效果并不好：
-
+`1girl, makima, braided ponytail, ringed eyes, collared shirt, black necktie, black pants, red hair, yellow eyes, <lora:csm_makima:1>`
 预期：
 ![](Pasted%20image%2020250620111523.png)
 实际：
