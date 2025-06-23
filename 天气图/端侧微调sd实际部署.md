@@ -12,3 +12,19 @@
 
 
 
+
+目前尝试的内容：
+1、demo降分辨率跑通：sd1.5 + lcm-lora
+剩下的方式跑c站模型全部不通：
+
+1、sd1.5 + lora + dpm++采样器
+2、sd1.5-lcm-safetensor
+
+
+主要是下面两种情况的模型：
+1、https://civitai.com/models/16014/anime-lineart-manga-like-style  这种基础sd1.5的lora，但是使用的是dpm++采样器，我按照lcm的方式生成固定的时间嵌入，生成对应的矫正集，推理还是异常的
+
+2、https://civitai.com/models/71523/the-wondermix  一整个sd1.5-lcm-lora 的safetensor的加载和导出onnx，我直接替换基础sd1.5的权重导出来是不行的，或许应该用配置文件
+
+c站上没有单独给你lcm-lora部分，像demo那样加载在basemodel上的..还有转模型实在是太慢了，一整天都能浪费完，稍微改个参数也不知道有没有影响，转一下就是n个小时，下面得开始搭建onnx推理pipeline，要不然都不知道是onnx的问题还是ax的问题
+
