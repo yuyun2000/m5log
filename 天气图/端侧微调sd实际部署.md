@@ -37,6 +37,8 @@ c站上没有单独给你lcm-lora部分，像demo那样加载在basemodel上的.
 | ![](企业微信截图_17507500681348.png)           | ![](txt2img_output_onnx.png)             |
 | ![](Pasted%20image%2020250624153444.png) | ![](txt2img_output_onnx%201.png)         |
 | ![](Pasted%20image%2020250626095049.png) | ![](Pasted%20image%2020250626095034.png) |
+| ![](Pasted%20image%2020250626095551.png) | ![](Pasted%20image%2020250626095539.png) |
+| ![](Pasted%20image%2020250626095647.png) | ![](Pasted%20image%2020250626095637.png) |
 |                                          |                                          |
 
 
