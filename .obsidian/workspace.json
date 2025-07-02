@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天气图/端侧微调sd实际部署.md",
+                "file": "650N-HA控制/5.微调&模型导出.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "端侧微调sd实际部署"
+              "title": "5.微调&模型导出"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
+    "天气图/端侧微调sd实际部署.md",
     "file/Pasted image 20250626095647.png",
     "file/Pasted image 20250626095637.png",
     "file/Pasted image 20250626095551.png",
@@ -199,8 +200,6 @@
     "天气图/多个文生图模型对比.md",
     "天气图/端侧sd效果.md",
     "650N-HA控制/5.微调&模型导出.md",
-    "天气图/端侧微调sd实际部署.md",
-    "file/d68f1e57-91ce-4694-b6d6-9dcbfb3058d2.png",
     "650N-HA控制/6.控制.md",
     "技巧相关/搜索推荐-秘塔.md",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
