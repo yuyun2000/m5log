@@ -186,6 +186,7 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
+    "file/txt2img_output_onnx 2.png",
     "file/lora_test.jpg",
     "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
@@ -209,7 +210,6 @@
     "file/Pasted image 20250626095034.png",
     "file/txt2img_output_onnx 1.png",
     "file/Pasted image 20250624153444.png",
-    "file/txt2img_output_onnx.png",
     "天气图/多个文生图模型对比.md",
     "天气图/端侧sd效果.md",
     "650N-HA控制/6.控制.md",
