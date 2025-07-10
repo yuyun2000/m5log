@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "open-webui部署/0.安装&运行.md",
+                "file": "技巧相关/docker源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.安装&运行"
+              "title": "docker源"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "650N-HA控制/5.微调&模型导出.md",
     "open-webui部署/0.安装&运行.md",
+    "技巧相关/docker源.md",
+    "650N-HA控制/5.微调&模型导出.md",
     "open-webui部署",
     "技巧相关/AI工具分享.md",
     "README.md",
@@ -224,7 +225,6 @@
     "天气图/前期试验.md",
     "天气图",
     "Melotts相关/StackFlow-melotts tcp测试代码.md",
-    "技巧相关/阿里云DDNS自动更新记录值的脚本.md",
     "650N-HA控制",
     "Chatbot相关",
     "file/melojp.wav",
