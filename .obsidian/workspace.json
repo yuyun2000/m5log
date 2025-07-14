@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
+                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.选择模型"
+              "title": "1.导出onnx模型&测试onnx模型"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
+                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.导出onnx模型&测试onnx模型"
+              "title": "不同采样器不同步数的比较"
             }
           }
         ],
@@ -186,16 +186,22 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "天气图/端侧微调sd实际部署.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
+    "file/test_unipc_no_lora_steps_20 2.jpg",
+    "file/test_unipc_no_lora_steps_10 1.jpg",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
+    "file/test_dpm_no_lora_steps_10 2.jpg",
+    "file/test_dpm_no_lora_steps_20 2.jpg",
+    "file/test_unipc_no_lora_steps_20 1.jpg",
+    "file/test_unipc_no_lora_steps_10.jpg",
+    "file/test_dpm_no_lora_steps_10 1.jpg",
+    "file/test_dpm_no_lora_steps_20 1.jpg",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
+    "file/test_unipc_no_lora_steps_20.jpg",
+    "file/test_unipc_no_lora_steps_8.jpg",
+    "file/test_dpm_no_lora_steps_20.jpg",
+    "天气图/端侧微调sd实际部署.md",
     "650-文生图/未命名.md",
-    "file/txt2img_output_onnx 5.png",
-    "file/txt2img_output_onnx 4.png",
-    "file/txt2img_output_onnx 2.png",
-    "file/txt2img_output_onnx 3.png",
-    "file/lora_test.jpg",
-    "file/Pasted image 20250710122155.png",
     "650-文生图/从0部署一个c站模型-sd1.5版本",
     "未命名.md",
     "650-文生图",
@@ -205,10 +211,6 @@
     "open-webui部署",
     "技巧相关/AI工具分享.md",
     "README.md",
-    "file/Pasted image 20250626095647.png",
-    "file/Pasted image 20250626095637.png",
-    "file/Pasted image 20250626095551.png",
-    "file/Pasted image 20250626095539.png",
     "天气图/多个文生图模型对比.md",
     "天气图/端侧sd效果.md",
     "650N-HA控制/6.控制.md",
@@ -224,7 +226,6 @@
     "650N-HA控制/2.问题.md",
     "650N-HA控制/3.过程.md",
     "Chatbot相关/0.问题搜集.md",
-    "Chatbot相关/10.测试记录.md",
     "天气图",
     "650N-HA控制",
     "Chatbot相关",
