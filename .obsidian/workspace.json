@@ -35,8 +35,7 @@
               "title": "不同采样器不同步数的比较"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda5490919acbb50",
+  "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "file/test_unipc_no_lora_steps_20 2.jpg",
     "file/test_unipc_no_lora_steps_10 1.jpg",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "file/test_dpm_no_lora_steps_10 2.jpg",
     "file/test_dpm_no_lora_steps_20 2.jpg",
     "file/test_unipc_no_lora_steps_20 1.jpg",
@@ -199,7 +198,6 @@
     "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "file/test_unipc_no_lora_steps_20.jpg",
     "file/test_unipc_no_lora_steps_8.jpg",
-    "file/test_dpm_no_lora_steps_20.jpg",
     "天气图/端侧微调sd实际部署.md",
     "650-文生图/未命名.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本",
