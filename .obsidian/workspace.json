@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "5a0d0dc64e67b7cd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "file/Pasted image 20250716163923.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250716163923"
+            }
+          },
+          {
             "id": "cda5490919acbb50",
             "type": "leaf",
             "state": {
@@ -185,10 +197,10 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
-    "file/Pasted image 20250716163959.png",
     "file/Pasted image 20250716163923.png",
-    "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
     "rag部署/1.5 结构化 和 非结构化 知识库检索效果对比.md",
+    "file/Pasted image 20250716163959.png",
+    "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
     "file/Pasted image 20250716111112.png",
     "rag部署/0.参考.md",
     "技巧相关/docker源.md",
@@ -203,7 +215,6 @@
     "file/test_unipc_no_lora_steps_20 1.jpg",
     "file/test_unipc_no_lora_steps_10.jpg",
     "file/test_dpm_no_lora_steps_10 1.jpg",
-    "file/test_dpm_no_lora_steps_20 1.jpg",
     "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "天气图/端侧微调sd实际部署.md",
     "650-文生图/未命名.md",
