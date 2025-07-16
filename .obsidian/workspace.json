@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lightrag部署/0.参考.md",
+                "file": "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.参考"
+              "title": "1.ragflow+bgem3 和 豆包知识库 检索效果对比"
             }
           },
           {
@@ -185,11 +185,13 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "file/Pasted image 20250716111112.png",
+    "rag部署/0.参考.md",
+    "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
     "技巧相关/docker源.md",
-    "lightrag部署/0.参考.md",
     "open-webui部署/0.安装&运行.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
-    "lightrag部署",
+    "rag部署",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
     "file/test_unipc_no_lora_steps_20 2.jpg",
     "file/test_unipc_no_lora_steps_10 1.jpg",
@@ -224,8 +226,6 @@
     "Chatbot相关/指标统计",
     "650N-HA控制/1.方案统计.md",
     "650N-HA控制/2.问题.md",
-    "650N-HA控制/3.过程.md",
-    "Chatbot相关/0.问题搜集.md",
     "天气图",
     "650N-HA控制",
     "Chatbot相关",
