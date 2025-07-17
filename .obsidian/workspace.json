@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rag部署/1.5 结构化 和 非结构化 知识库检索效果对比.md",
+                "file": "rag部署/1.6 开源框架+豆包 VS 豆包知识库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 结构化 和 非结构化 知识库检索效果对比"
+              "title": "1.6 开源框架+豆包 VS 豆包知识库"
             }
           },
           {
@@ -197,19 +197,20 @@
   },
   "active": "dd9ceb95cc9b8da6",
   "lastOpenFiles": [
+    "file/Pasted image 20250717143528.png",
+    "file/Pasted image 20250717143410.png",
+    "file/Pasted image 20250717142128.png",
+    "rag部署/1.6 开源框架+豆包 VS 豆包知识库.md",
+    "file/Pasted image 20250717142954.png",
+    "file/Pasted image 20250717142520.png",
+    "file/Pasted image 20250717142358.png",
+    "file/Pasted image 20250717142017.png",
+    "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
+    "rag部署/1.5 结构化 和 非结构化 知识库检索效果对比.md",
     "file/Pasted image 20250717101516.png",
     "file/Pasted image 20250717101457.png",
     "file/Pasted image 20250717101417.png",
     "file/Pasted image 20250717101306.png",
-    "file/Pasted image 20250716171508.png",
-    "file/Pasted image 20250716171420.png",
-    "file/Pasted image 20250716171340.png",
-    "file/Pasted image 20250716171219.png",
-    "file/Pasted image 20250716171202.png",
-    "file/Pasted image 20250716171144.png",
-    "file/Pasted image 20250716170957.png",
-    "rag部署/1.5 结构化 和 非结构化 知识库检索效果对比.md",
-    "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
     "rag部署/0.参考.md",
     "技巧相关/docker源.md",
     "open-webui部署/0.安装&运行.md",
@@ -237,7 +238,6 @@
     "Chatbot相关/1.目前的需求.md",
     "Chatbot相关/指标统计/6.1-3日统计.md",
     "Chatbot相关/指标统计",
-    "650N-HA控制/1.方案统计.md",
     "天气图",
     "650N-HA控制",
     "Chatbot相关",
