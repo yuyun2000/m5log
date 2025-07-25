@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/13.模型测评系统.md",
+                "file": "Chatbot相关/21.使用双层模型的效果对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.模型测评系统"
+              "title": "21.使用双层模型的效果对比"
             }
           }
         ],
@@ -186,6 +186,9 @@
   },
   "active": "17784d95aab51042",
   "lastOpenFiles": [
+    "file/Pasted image 20250725145135.png",
+    "file/Pasted image 20250725145056.png",
+    "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/21.使用双层模型的效果对比.md",
     "file/Pasted image 20250722150635.png",
     "file/Pasted image 20250722150621.png",
@@ -204,13 +207,11 @@
     "Chatbot相关/6.代码能力增强.md",
     "Chatbot相关/5.知识库知识更新.md",
     "Chatbot相关/12.新一轮问题收集-6.10.md",
-    "Chatbot相关/13.模型测评系统.md",
     "技巧相关/docker源.md",
     "open-webui部署/0.安装&运行.md",
     "file/Pasted image 20250716163923.png",
     "2025-07-18.md",
     "rag部署/1.6 开源框架+豆包 VS 豆包知识库.md",
-    "file/Pasted image 20250717145738.png",
     "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
     "rag部署/1.5 结构化 和 非结构化 知识库检索效果对比.md",
     "rag部署/0.参考.md",
