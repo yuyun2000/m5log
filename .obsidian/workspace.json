@@ -22,6 +22,30 @@
             }
           },
           {
+            "id": "09b1e917b0842bd5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "file/Pasted image 20250828175450.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250828175450"
+            }
+          },
+          {
+            "id": "3a43b4999ad9b422",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "file/Pasted image 20250828175109.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250828175109"
+            }
+          },
+          {
             "id": "17784d95aab51042",
             "type": "leaf",
             "state": {
@@ -185,6 +209,9 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
+    "file/Pasted image 20250828175450.png",
+    "产品图/若干文生图模型效果对比.md",
+    "file/Pasted image 20250828175444.png",
     "file/Pasted image 20250828175109.png",
     "file/企业微信截图_17528336662489.png",
     "file/output_image2.jpg",
@@ -194,14 +221,10 @@
     "file/Pasted image 20250828174736.png",
     "file/Pasted image 20250828174659.png",
     "天气图/多个文生图模型对比.md",
-    "产品图/若干文生图模型效果对比.md",
     "产品图",
     "650N-ASR/sensevoice误差探究/2.端侧调整.md",
     "650N-ASR/sensevoice误差探究/1.问题发现.md",
     "650N-ASR/sensevoice的指标对比.md",
-    "file/Pasted image 20250827104923.png",
-    "file/Pasted image 20250827101143.png",
-    "file/Pasted image 20250827101126.png",
     "650N-ASR/sensevoice误差探究/0.原生推理的简单流程.md",
     "650N-ASR/sensevoice误差探究",
     "650N-HA控制/5.微调&模型导出.md",
