@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650N-ASR/sensevoice误差探究/2.端侧调整.md",
+                "file": "产品图/若干文生图模型效果对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.端侧调整"
+              "title": "若干文生图模型效果对比"
             }
           },
           {
@@ -185,18 +185,24 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "650N-ASR/sensevoice误差探究/1.问题发现.md",
+    "file/Pasted image 20250828175109.png",
+    "file/企业微信截图_17528336662489.png",
+    "file/output_image2.jpg",
+    "file/Pasted image 20250828175036.png",
+    "file/企业微信截图_17528330554914.png",
+    "file/output_image.jpg",
+    "file/Pasted image 20250828174736.png",
+    "file/Pasted image 20250828174659.png",
+    "天气图/多个文生图模型对比.md",
+    "产品图/若干文生图模型效果对比.md",
+    "产品图",
     "650N-ASR/sensevoice误差探究/2.端侧调整.md",
+    "650N-ASR/sensevoice误差探究/1.问题发现.md",
     "650N-ASR/sensevoice的指标对比.md",
     "file/Pasted image 20250827104923.png",
     "file/Pasted image 20250827101143.png",
     "file/Pasted image 20250827101126.png",
-    "file/Pasted image 20250827094401.png",
-    "file/Pasted image 20250826180828.png",
     "650N-ASR/sensevoice误差探究/0.原生推理的简单流程.md",
-    "file/Pasted image 20250826142500.png",
-    "file/Pasted image 20250826103533.png",
-    "file/Pasted image 20250826101103.png",
     "650N-ASR/sensevoice误差探究",
     "650N-HA控制/5.微调&模型导出.md",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
@@ -206,8 +212,6 @@
     "Chatbot相关/M5Chat-MCP服务器使用文档.md",
     "技巧相关/docker源.md",
     "Chatbot相关/21.使用双层模型的效果对比.md",
-    "file/Pasted image 20250725151603.png",
-    "file/Pasted image 20250725151550.png",
     "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/11.最近一些消息的新旧对比.md",
     "Chatbot相关/2.初步设计流程.md",
@@ -220,15 +224,12 @@
     "2025-07-18.md",
     "rag部署/1.6 开源框架+豆包 VS 豆包知识库.md",
     "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
-    "rag部署/1.5 结构化 和 非结构化 知识库检索效果对比.md",
-    "rag部署/0.参考.md",
     "rag部署",
     "650-文生图/从0部署一个c站模型-sd1.5版本",
     "650-文生图",
     "open-webui部署",
     "Chatbot相关/指标统计",
     "天气图",
-    "650N-HA控制",
-    "Chatbot相关"
+    "650N-HA控制"
   ]
 }
