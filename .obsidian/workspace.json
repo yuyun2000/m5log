@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/模型评测数据收集.md",
+                "file": "Chatbot相关/13.模型测评系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模型评测数据收集"
+              "title": "13.模型测评系统"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "09b1e917b0842bd5",
   "lastOpenFiles": [
-    "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/模型评测数据收集.md",
+    "Chatbot相关/13.模型测评系统.md",
     "HiM5唤醒/1.wekws训练.md",
     "650N-ASR/sensevoice误差探究/2.端侧调整.md",
     "HiM5唤醒/0.数据搜集.md",
