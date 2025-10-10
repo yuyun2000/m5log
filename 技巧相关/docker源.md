@@ -29,3 +29,8 @@ sudo docker run -d \
   -p 8080:8080 \
   hub.kesry.eu.org/fatedier/frps \
   -c /frp/frps.ini
+
+
+
+
+docker pull m.daocloud.io/docker.io/docker/dockerfile:1-labs
