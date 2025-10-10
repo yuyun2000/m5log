@@ -31,6 +31,3 @@ sudo docker run -d \
   -c /frp/frps.ini
 
 
-
-
-docker pull m.daocloud.io/docker.io/docker/dockerfile:1-labs

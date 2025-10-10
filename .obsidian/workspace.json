@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,15 +198,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b1e917b0842bd5",
+  "active": "e3a25e185902f142",
   "lastOpenFiles": [
+    "open-webui部署/0.安装&运行.md",
+    "HiM5唤醒/0.数据搜集.md",
+    "技巧相关/docker源.md",
     "2025-10-10.md",
     "Chatbot相关/13.模型测评系统.md",
     "Chatbot相关/模型评测数据收集.md",
     "HiM5唤醒/1.wekws训练.md",
     "650N-ASR/sensevoice误差探究/2.端侧调整.md",
-    "HiM5唤醒/0.数据搜集.md",
-    "open-webui部署/0.安装&运行.md",
     "产品图/若干文生图模型效果对比.md",
     "file/Pasted image 20250909164736.png",
     "file/Pasted image 20250828175036.png",
@@ -233,7 +233,6 @@
     "Chatbot相关/4.创建mcp服务器.md",
     "650N-ASR",
     "Chatbot相关/M5Chat-MCP服务器使用文档.md",
-    "技巧相关/docker源.md",
     "Chatbot相关/21.使用双层模型的效果对比.md",
     "Chatbot相关/11.最近一些消息的新旧对比.md",
     "Chatbot相关/2.初步设计流程.md",
