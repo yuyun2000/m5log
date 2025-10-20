@@ -1,14 +1,14 @@
 使用c站上的1.5模型，直接替换掉unet其余不变的情况下进行生成，效果并不好：
 `1girl, makima, braided ponytail, ringed eyes, collared shirt, black necktie, black pants, red hair, yellow eyes, <lora:csm_makima:1>`
 预期：
-![](../file/Pasted%20image%2020250620111523.png)
+![](Pasted%20image%2020250620111523.png)
 实际：
-![](../file/1ee3ea7a-68c3-46c3-aa9b-89c99b8db5b8.png)
+![](1ee3ea7a-68c3-46c3-aa9b-89c99b8db5b8.png)
 
 主要原因是原模型使用的是DPM++ 2M Karras采样器，扩散了20步
 我们这个模型使用lcm扩散了4步
 手动把采样器换成dpm++ 扩散40步，效果有点改进：
-![](../file/d68f1e57-91ce-4694-b6d6-9dcbfb3058d2.png)
+![](d68f1e57-91ce-4694-b6d6-9dcbfb3058d2.png)
 
 
 
@@ -34,11 +34,11 @@ c站上没有单独给你lcm-lora部分，像demo那样加载在basemodel上的.
 
 | 卖家秀                                      | 买家秀                                      |
 | ---------------------------------------- | ---------------------------------------- |
-| ![](../file/企业微信截图_17507500681348.png)           | ![](../file/txt2img_output_onnx.png)             |
-| ![](../file/Pasted%20image%2020250624153444.png) | ![](../file/txt2img_output_onnx%201.png)         |
-| ![](../file/Pasted%20image%2020250626095049.png) | ![](../file/Pasted%20image%2020250626095034.png) |
-| ![](../file/Pasted%20image%2020250626095551.png) | ![](../file/Pasted%20image%2020250626095539.png) |
-| ![](../file/Pasted%20image%2020250626095647.png) | ![](../file/Pasted%20image%2020250626095637.png) |
+| ![](企业微信截图_17507500681348.png)           | ![](txt2img_output_onnx.png)             |
+| ![](Pasted%20image%2020250624153444.png) | ![](txt2img_output_onnx%201.png)         |
+| ![](Pasted%20image%2020250626095049.png) | ![](Pasted%20image%2020250626095034.png) |
+| ![](Pasted%20image%2020250626095551.png) | ![](Pasted%20image%2020250626095539.png) |
+| ![](Pasted%20image%2020250626095647.png) | ![](Pasted%20image%2020250626095637.png) |
 |                                          |                                          |
 
 
