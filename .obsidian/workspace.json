@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "open-webui部署/0.安装&运行.md",
+                "file": "技巧相关/650-python包内存复制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.安装&运行"
+              "title": "650-python包内存复制"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "export",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,16 +184,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda5490919acbb50",
+  "active": "ea74fd873a80fdaa",
   "lastOpenFiles": [
+    "file/Pasted image 20251030161719.png",
+    "file/Pasted image 20251030161448.png",
+    "file/Pasted image 20251030161355.png",
+    "open-webui部署/0.安装&运行.md",
+    "技巧相关/650-python包内存复制.md",
+    "650N-HA控制/6.控制.md",
     "650N-HA控制/5.微调&模型导出.md",
     "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
     "650N-HA控制/3.过程.md",
     "650N-HA控制/2.问题.md",
-    "650N-HA控制/6.控制.md",
     "Chatbot相关/M5Chat-MCP服务器使用文档.md",
     "技巧相关/docker源.md",
-    "open-webui部署/0.安装&运行.md",
     "Chatbot相关/11.最近一些消息的新旧对比.md",
     "Chatbot相关/模型评测数据收集.md",
     "Chatbot相关/13.模型测评系统.md",
@@ -213,14 +218,10 @@
     "file/企业微信截图_17604310629042.png",
     "file/Pasted image 20251014161814.png",
     "file/Pasted image 20251013181811.png",
-    "file/Pasted image 20251013181225.png",
-    "file/Pasted image 20251013181005.png",
     "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/2.准备矫正集数据.md",
     "README.md",
-    "未命名.md",
-    "2025-10-10.md",
     "HiM5唤醒",
     "产品图",
     "650N-ASR/sensevoice误差探究",
