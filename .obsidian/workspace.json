@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
+                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/b站分享版本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不同采样器不同步数的比较"
-            }
-          },
-          {
-            "id": "ea74fd873a80fdaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.导出onnx模型&测试onnx模型&准备矫正集"
+              "title": "b站分享版本"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,14 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea74fd873a80fdaa",
+  "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/2.转换模型.md",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/b站分享版本.md",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/端侧微调sd实际部署.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/关于大尺寸下模型转换失败的问题.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "file/txt2img_output_onnx 6.png",
     "file/test_dpm_no_lora_steps_20 3.jpg",
     "file/Pasted image 20251126113503.png",
