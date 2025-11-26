@@ -1,96 +1,109 @@
+手把手教你在 AX8850 上部署自定义 SD1.5 模型！
 
+各位好，今天给大家带来一个超硬核的教程：**如何将 Civitai（C站）上的 Stable Diffusion 1.5 模型部署到 AX8850 开发板上！**
 
-让开发板也能跑图！**AX8850部署SD1.5全流程：从C站选模到板端推理**
+想要在端侧跑自己喜欢的二次元/真人大模型吗？跟着这篇教程走，你也能搞定！
 
----
-
-### 正文内容：
-
-大家好，今天给大家带来在 **AX8850** 平台上部署 **Stable Diffusion 1.5** 的全流程技术分享。
-
-想要在边缘端跑出高质量的图，模型的转换和部署是关键。本项目代码已开源，欢迎Star！
-👉 **代码仓库**：`https://github.com/yuyun2000/sd15-to-ax8850-deploy`
-
-下面直接上干货，教大家如何从零开始把一个 Safetensor 权重转换成板端可用的 axmodel。
+> **⚠️ 此教程所有配套代码请访问 GitHub：**
+> `https://github.com/yuyun2000/sd15-to-ax8850-deploy`
 
 ---
 
-### 第一步：模型选型（C站）
-首先去 Civitai 挑选底模。
-**选模标准（敲黑板）：**
-1.  **Base Model**：必须是 SD 1.5。
-2.  **类型**：完整的 Checkpoint（Lora的教程之后再填坑）。
-3.  **大小**：最好是标准的 **1.99GB** 左右（稍微大一点通常也行，可以自行测试）。
+## 第一步：挑选你的“梦中情模”
 
-比如我选用了这个 `xxmix9realistic` 模型：
-`https://civitai.com/models/47274/xxmix9realistic`
-下载好对应的 `.safetensors` 权重文件备用。
+首先，我们需要去 C 站（`civitai.com`）选一个心仪的模型。
+**筛选条件（敲黑板）：**
+1.  **Base Model** 必须是 **SD 1.5**。
+2.  **模型类型** 必须是完整的 **Checkpoint**（LoRA 的教程以后再填坑）。
+3.  **模型大小** 最好是 **1.99G** 左右（这是最标准的剪枝大小，稍微大一点点通常也能跑，可以自己试试）。
+
+比如这款 `xxmix9realistic`：
+*(此处请插入原教程中的 C 站模型截图 img/1.png 和 img/2.png)*
+
+下载好对应的 `.safetensors` 权重文件，我们开始干活！
 
 ---
 
-### 第二步：PC端验证与导出 ONNX
-在开始转换前，先在PC环境跑通流程，确保模型本身没问题。
+## 第二步：PC 端环境准备与验证
 
-**1. 安装依赖并验证 Safetensor**
-运行 `safetensor_infer.py`，输入你的 prompt 和 negative prompt。
-这一步是为了确认下载的权重能正常出图（虽然PC端效果和最终板端可能因分辨率、采样器不同有细微差异，但风格应一致）。
+在开始转换之前，我们需要在 PC 上先跑通流程，确保模型文件没问题。请先在 PC 上配置好 GitHub 仓库中要求的依赖环境。
 
-**2. 导出 ONNX 模型**
-运行核心脚本：
+### 1. 加载 Safetensor 进行推理测试
+运行 `safetensor_infer.py` 看看模型能不能出图：
+
+```bash
+python safetensor_infer.py \
+    --input_path "./s/xxmix9realistic_v40.safetensors" \
+    --output_path "./test_output" \
+    --negative_prompt "easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark))," \
+    --prompt "1girl, upper body, (huge Laughing),sweety,sun glare, bokeh, depth of field, blurry background, light particles, strong wind,head tilt,simple background, red background,<lora:film:0.4>"
+```
+
+*(此处请插入推理结果图 img/3.png)*
+如果能生成类似上面的图片，说明模型加载正常。
+
+### 2. 导出 ONNX 模型
+接下来是关键的一步，导出 ONNX：
+
 ```bash
 python export_onnx.py --input_path ./s/xxmix9realistic_v40.safetensors --output_path ./out_onnx --isize 480x320 --prompt "你的提示词..."
 ```
-**⚠️ 注意事项：**
-*   **分辨率设置**：`--isize` 可以是 `480x320`（竖图）、`320x480`（横图）或 `512x512`。
-*   **尺寸限制**：建议不要超过 512，且尺寸必须能被8整除（因为后面VAE缩放需要）。
-*   **关于 Text Encoder**：脚本**不会**导出文本编码器。原因有两个：一是环境配置有点麻烦；二是Text Encoder通常都是标准的CLIP，直接用通用的即可（后面会给下载链接）。
 
-**3. (可选) ONNX 推理验证**
-运行 `python dpm_infer.py` 验证导出的 ONNX 是否能跑通，这一步可以跳过，仅作排查用。
+**注意几个坑点：**
+*   **分辨率设置：** `--isize` 可以是 `320x480` (竖图)、`480x320` (横图) 或 `512x512`。**千万别贪大**，再大容易报错，而且要和后续 VAE 的尺寸对应（有8倍缩放关系）。
+*   **文本编码器 (Text Encoder)：** 脚本**不会**导出文本编码器。原因有两个：一是 AX 的导出 Demo 环境有点小问题；二是 SD1.5 的文本编码器都是 CLIP，基本通用，咱们直接用现成的就行（后面会给下载链接）。
+
+### 3. (可选) ONNX 推理验证
+这一步是为了确保导出的 ONNX 没毛病：
+```bash
+python dpm_infer.py
+```
+记得修改代码里的路径和提示词。
+*(此处请插入 ONNX 推理截图 img/4.png)*
 
 ---
 
-### 第三步：准备量化校准集
-模型转换需要量化，量化需要校准数据。
-直接运行：
+## 第三步：准备量化校准集
+
+为了让模型在 NPU 上跑得快又准，我们需要准备校准数据。运行：
+
 ```bash
 python prepare_data.py
 ```
-脚本会在目录下生成 `calib_data_vae` 和 `calib_data_unet`。
-*Tip：不同的模型风格不同，建议根据你选的模型，在代码里微调一下生成校准数据的 Prompt，效果会更好。*
+
+运行后，目录下会生成 `calib_data_vae` 和 `calib_data_unet` 文件夹。
+*注：不同的模型可能需要调整代码中的样本，追求精度的朋友可以自行修改。*
 
 ---
 
-### 第四步：Pulsar 模型转换（耗时预警 ☕）
-接下来需要切换到 **Pulsar 工具链环境**（推荐版本 4.2）。
+## 第四步：模型转换 (AX8850 专用)
 
-**1. 转换 UNet（重头戏）**
+这里需要切换到 **Pulsar** 工具链环境（目前使用 v4.2 版本）。
+
+### 1. 转换 UNet（高能预警：非常慢！）
 ```bash
 pulsar2 build --input out_onnx/unet_sim_cut.onnx --config config_unet_u16.json --output_dir output_unet_ax --output_name unet.axmodel
 ```
-🛑 **高能预警**：这一步非常慢！实测耗时约 **68分钟**，建议跑起来去喝杯咖啡或者打局游戏。
+☕ **去喝杯咖啡吧**，这一步非常耗时。博主实测花了 **68分钟** 才跑完。
 
-**2. 转换 VAE**
+### 2. 转换 VAE
 ```bash
 pulsar2 build --input out_onnx/vae_decoder_sim.onnx --config config_vae_decoder_u16.json --output_dir output_vae_ax --output_name vae.axmodel
 ```
-VAE 转换相对较快。
+VAE 转换相对快一些。
 
 ---
 
-### 第五步：板端部署
-转换完成后，你现在手头有了 `unet.axmodel` 和 `vae.axmodel`。
-还缺一个 Text Encoder 对吧？
-👉 **Text Encoder 下载**：`https://huggingface.co/yunyu1258/SD1.5-AX650-Dark_Sushi_Mix`
-直接去 HuggingFace 下载这个现成的 axmodel 即可。
+## 第五步：上板实测！
 
-最后，使用仓库中提供的板端推理 Python 脚本，把三个模型加载进去，就可以在 AX8850 上愉快地跑图啦！
+UNet 和 VAE 转换好之后，那个通用的 **Text Encoder** 去哪里领？
+👉 `https://huggingface.co/yunyu1258/SD1.5-AX650-Dark_Sushi_Mix`
+
+你可以从上面的 HuggingFace 仓库下载 Text Encoder 的 axmodel。同时，仓库里也提供了在板子上加载模型进行推理的 Python 脚本。
+
+把 `unet.axmodel`、`vae.axmodel` 和下载好的 Text Encoder 传到你的 AX8850 板子上，运行推理脚本，见证奇迹的时刻！
 
 ---
+**觉得有用的话，求个三连支持一下！有问题欢迎在评论区交流~**
 
-### 📝 总结
-整个流程概括为：**C站选模 -> PC验证 -> 导出ONNX -> 生成校准集 -> Pulsar转换 -> 板端运行**。
-
-如果你在部署过程中遇到问题，或者有成功的返图，欢迎在评论区交流！觉得有用的话，别忘了**点赞、收藏、投币**三连支持一下！
-
-#AI #嵌入式 #AX8850 #StableDiffusion #模型部署 #深度学习
+#AI #嵌入式开发 #AX8850 #StableDiffusion #模型部署 #硬核技术
