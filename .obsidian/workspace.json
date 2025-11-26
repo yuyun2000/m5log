@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/2.转换模型.md",
+                "file": "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.转换模型"
+              "title": "1.导出onnx模型&测试onnx模型&准备矫正集"
             }
           }
         ],
@@ -186,14 +186,14 @@
   },
   "active": "ea74fd873a80fdaa",
   "lastOpenFiles": [
+    "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/2.转换模型.md",
+    "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/端侧微调sd实际部署.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/关于大尺寸下模型转换失败的问题.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/2.转换模型.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
     "file/txt2img_output_onnx 6.png",
     "file/test_dpm_no_lora_steps_20 3.jpg",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "file/Pasted image 20251126113503.png",
     "file/Pasted image 20251126113036.png",
     "650N-HA控制/5.微调&模型导出.md",
