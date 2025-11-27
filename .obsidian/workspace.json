@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技巧相关/ax650-python包，推理时内存复制.md",
+                "file": "650N-HA控制/1.方案统计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ax650-python包，推理时内存复制"
+              "title": "1.方案统计"
             }
           }
         ]
@@ -171,10 +171,30 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "技巧相关/M5Stack AI工具使用手册.md",
-    "file/Pasted image 20251127151657.png",
     "650N-HA控制/2.问题.md",
+    "650N-HA控制/3.过程.md",
+    "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
+    "650N-HA控制/5.微调&模型导出.md",
     "650N-HA控制/1.方案统计.md",
+    "650N-HA控制/6.控制.md",
+    "650N-HA控制/分析文档",
+    "open-webui部署/0.安装&运行.md",
+    "HiM5唤醒/0.数据搜集.md",
+    "file/企业微信截图_1747625652177.png",
+    "file/92069eb4-c929-4999-b239-10ddf0c24990.png",
+    "file/365b112f-fbc5-4192-af01-960f60c7bb69.png",
+    "file/50d92000-bcb1-46b4-aa28-30d3b3dc5c6f.png",
+    "file/9d84af9b-d852-4844-925e-b395dd729f38.png",
+    "file/1pG3zCF5z813qJrhKsM7xTysphvOV2.png",
+    "file/1ee3ea7a-68c3-46c3-aa9b-89c99b8db5b8.png",
+    "技巧相关/obsidian保持附件的markdown排版.md",
+    "技巧相关/neo4j安装后点击没反应.md",
+    "技巧相关/M5Stack AI工具使用手册.md",
+    "技巧相关/docker源.md",
+    "技巧相关/AI工具分享.md",
+    "技巧相关/搜索推荐-秘塔.md",
+    "技巧相关/ax650-python包，推理时内存复制.md",
+    "file/Pasted image 20251127151657.png",
     "650-文生图/未命名.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/知乎版本.md",
@@ -183,30 +203,11 @@
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
     "file/Pasted image 20251127101303.png",
     "650-文生图/从0部署一个c站模型-sd1.5版本/b站分享版本.md",
-    "file/92069eb4-c929-4999-b239-10ddf0c24990.png",
     "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/端侧微调sd实际部署.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/关于大尺寸下模型转换失败的问题.md",
-    "file/txt2img_output_onnx 6.png",
-    "file/test_dpm_no_lora_steps_20 3.jpg",
-    "file/Pasted image 20251126113503.png",
-    "file/Pasted image 20251126113036.png",
-    "650N-HA控制/5.微调&模型导出.md",
-    "技巧相关/ax650-python包，推理时内存复制.md",
     "650N-HA控制/7.展示方案.md",
     "未命名",
-    "650N-HA控制/6.控制.md",
-    "file/Pasted image 20251030161719.png",
-    "file/Pasted image 20251030161448.png",
-    "open-webui部署/0.安装&运行.md",
-    "650N-HA控制/4.1B微调模型对比qwen1.7b未微调模型.md",
-    "650N-HA控制/3.过程.md",
-    "Chatbot相关/M5Chat-MCP服务器使用文档.md",
-    "技巧相关/docker源.md",
-    "Chatbot相关/11.最近一些消息的新旧对比.md",
-    "Chatbot相关/模型评测数据收集.md",
-    "Chatbot相关/13.模型测评系统.md",
-    "Chatbot相关/21.使用双层模型的效果对比.md",
     "HiM5唤醒",
     "产品图",
     "650N-ASR/sensevoice误差探究",
@@ -214,7 +215,6 @@
     "rag部署",
     "650-文生图/从0部署一个c站模型-sd1.5版本",
     "650-文生图",
-    "open-webui部署",
-    "Chatbot相关/指标统计"
+    "open-webui部署"
   ]
 }
