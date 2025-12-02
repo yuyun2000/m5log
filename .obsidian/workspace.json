@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术周报/2.M5Stack开发避坑 NB-IoT注册失败？这3个细节90%的人会忽略.md",
+                "file": "技术周报/0.img.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.M5Stack开发避坑 NB-IoT注册失败？这3个细节90%的人会忽略"
+              "title": "0.img"
             }
           },
           {
@@ -185,10 +185,11 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "技术周报/1.M5Stack开发避坑，BLE HID、按键防抖与NB-IoT通信三大难题实战.md",
-    "技术周报/2.M5Stack开发避坑 NB-IoT注册失败？这3个细节90%的人会忽略.md",
-    "Chatbot相关/M5Stack开发实战：从BLE键盘到Matter智能照明的完整解决方案.md",
+    "技术周报/2.M5Stack开发避坑 NB-IoT连不上网？CODESYS传感器集成必看.md",
     "技术周报/0.img.md",
+    "file/Pasted image 20251202102704.png",
+    "技术周报/1.M5Stack开发避坑，BLE HID、按键防抖与NB-IoT通信三大难题实战.md",
+    "Chatbot相关/M5Stack开发实战：从BLE键盘到Matter智能照明的完整解决方案.md",
     "file/Pasted image 20251201164607.png",
     "650N-HA控制/分享文档/知乎版本1.md",
     "技术周报/img",
@@ -213,7 +214,6 @@
     "open-webui部署/0.安装&运行.md",
     "HiM5唤醒/0.数据搜集.md",
     "file/企业微信截图_1747625652177.png",
-    "file/92069eb4-c929-4999-b239-10ddf0c24990.png",
     "技巧相关/obsidian保持附件的markdown排版.md",
     "技巧相关/neo4j安装后点击没反应.md",
     "技巧相关/M5Stack AI工具使用手册.md",
@@ -223,7 +223,6 @@
     "技巧相关/ax650-python包，推理时内存复制.md",
     "650-文生图/未命名.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/知乎版本.md",
     "HiM5唤醒",
     "产品图",
     "650N-ASR/sensevoice误差探究",
