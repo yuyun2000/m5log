@@ -198,22 +198,60 @@
 
 ---
 
-## 七、常见问题与求助方式
-
-- **看不懂“模型 ID / Endpoint / API Key”等名词？**  
-    可以先照本指南一步一步照着界面填写，名词不理解没关系，能用起来最重要。  
-
-- **配置完成后无法使用？**
-    
-    - 检查公司网络是否正常；
-    - 检查端点地址是否完整、拼写是否正确；
-    - 检查 API 密钥是否过期或复制错误；
-    - 检查是否超出当月额度。
-
-如遇到文档未覆盖的问题，可向团队技术同事或 **刘波** 反馈，由我们补充完善本手册说明。
-
-
-
+## 七、Copilot使用公司代理
+首先安装好官方的Copilot后，默认只能使用基础的模型，并且有次数限制
+搜索`OAI Compatible Provider for Copilot`并安装，然后打开`setting.json`，添加以下内容：
+```json
+    "oaicopilot.baseUrl": "http://192.168.20.176:3000/v1",
+    "oaicopilot.models": [
+        {
+            "id": "claude-sonnet-4-5-20250929",
+            "owned_by": "m5",
+            "baseUrl": "http://192.168.20.176:3000/v1",
+            "context_length": 256000,
+            "max_tokens": 8192,
+            "temperature": 1,
+            "top_p": null,
+        },
+        {
+            "id": "claude-opus-4-5",
+            "owned_by": "m5",
+            "baseUrl": "http://192.168.20.176:3000/v1",
+            "context_length": 256000,
+            "max_tokens": 8192,
+            "temperature": 1,
+            "top_p": null,
+        },
+        {
+            "id": "gemini-3-pro-preview",
+            "owned_by": "m5",
+            "baseUrl": "http://192.168.20.176:3000/v1",
+            "context_length": 256000,
+            "max_tokens": 8192,
+            "temperature": 1,
+        },
+        {
+            "id": "qwen3-coder-480b-a35b-instruct",
+            "owned_by": "m5",
+            "baseUrl": "http://192.168.20.176:3000/v1",
+            "context_length": 256000,
+            "max_tokens": 8192,
+            "temperature": 1,
+        },
+        {
+            "id": "gpt-5.1",
+            "owned_by": "m5",
+            "baseUrl": "http://192.168.20.176:3000/v1",
+            "context_length": 256000,
+            "temperature": 1,
+        }
+    ]
+```
+(claude不能同时发送温度和top参数，gpt模型不支持max_tokens参数，其他模型类似，可以自己调整发送参数)
+然后点击配置模型
+![](Pasted%20image%2020251203121053.png)
+![](Pasted%20image%2020251203121112.png)
+输入密钥后把添加的模型都加上，这样就可以在copilot中使用公司的api进行处理，注意，此时自带的补全模型依然是copilot内置的没有被替换
 
 ---
 
