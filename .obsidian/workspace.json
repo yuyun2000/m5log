@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "qwen 微调",
+                "query": "hf-mi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda5490919acbb50",
+  "active": "23ebf18805b65ba7",
   "lastOpenFiles": [
     "HiM5唤醒/0.数据搜集.md",
     "650N-HA控制/8.和离线的助手对比.md",
