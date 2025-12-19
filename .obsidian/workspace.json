@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术周报/immch.md",
+                "file": "技术周报/M5Stack-AI技术助手简单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "immch"
+              "title": "M5Stack-AI技术助手简单"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "650N-HA控制/8.和离线的助手对比.md",
     "技术周报/immch.md",
+    "技术周报/M5Stack-AI技术助手简单.md",
+    "650N-HA控制/分享文档/2.微调过程.md",
+    "650N-HA控制/8.和离线的助手对比.md",
     "650N-ASR/sensevoice误差探究/1.问题发现.md",
     "650N-ASR/sensevoice误差探究/0.原生推理的简单流程.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/知乎版本.md",
@@ -181,7 +183,6 @@
     "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/1.导出onnx模型&测试onnx模型&准备矫正集.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/0.选择模型.md",
-    "650N-HA控制/分享文档/2.微调过程.md",
     "650N-HA控制/分享文档/1.ha控制逻辑.md",
     "Chatbot相关/指标统计/6.1-3日统计.md",
     "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
@@ -196,7 +197,6 @@
     "技术周报/2.M5Stack开发避坑 NB-IoT连不上网？CODESYS传感器集成必看.md",
     "技术周报/1.M5Stack开发避坑，BLE HID、按键防抖与NB-IoT通信三大难题实战.md",
     "技巧相关/ax650-python包，推理时内存复制.md",
-    "技巧相关/搜索推荐-秘塔.md",
     "file/Pasted image 20251203121112.png",
     "file/Pasted image 20251203121053.png",
     "file/Pasted image 20251203102946.png",
