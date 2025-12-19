@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术周报/M5Stack-AI技术助手简单.md",
+                "file": "技术周报/M5Stack-AI技术助手.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M5Stack-AI技术助手简单"
+              "title": "M5Stack-AI技术助手"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
     "技术周报/immch.md",
-    "技术周报/M5Stack-AI技术助手简单.md",
+    "技术周报/M5Stack-AI技术助手.md",
     "650N-HA控制/分享文档/2.微调过程.md",
     "650N-HA控制/8.和离线的助手对比.md",
     "650N-ASR/sensevoice误差探究/1.问题发现.md",
