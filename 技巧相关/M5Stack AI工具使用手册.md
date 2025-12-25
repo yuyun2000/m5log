@@ -223,14 +223,6 @@
             "top_p": null,
         },
         {
-            "id": "gemini-3-pro-preview",
-            "owned_by": "m5",
-            "baseUrl": "http://192.168.20.176:3000/v1",
-            "context_length": 256000,
-            "max_tokens": 8192,
-            "temperature": 1,
-        },
-        {
             "id": "qwen3-coder-480b-a35b-instruct",
             "owned_by": "m5",
             "baseUrl": "http://192.168.20.176:3000/v1",
@@ -247,7 +239,7 @@
         }
     ]
 ```
-(claude不能同时发送温度和top参数，gpt模型不支持max_tokens参数，其他模型类似，可以自己调整发送参数)
+(claude不能同时发送温度和top参数，gpt模型不支持max_tokens参数，gemini模型暂不适用，其他模型类似，可以自己调整发送参数)
 然后点击配置模型
 ![](Pasted%20image%2020251203121053.png)
 ![](Pasted%20image%2020251203121112.png)
