@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技巧相关/M5Stack AI工具使用手册.md",
+                "file": "2025-12-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M5Stack AI工具使用手册"
+              "title": "2025-12-26"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
+    "open-webui部署/0.安装&运行.md",
+    "2025-12-26.md",
+    "技巧相关/M5Stack AI工具使用手册.md",
     "技巧相关/翻墙教程.md",
     "file/Pasted image 20251225102058.png",
     "file/Pasted image 20251225101946.png",
@@ -178,7 +181,6 @@
     "file/Pasted image 20251225101747.png",
     "file/Pasted image 20251225101117.png",
     "file/Pasted image 20251225100937.png",
-    "open-webui部署/0.安装&运行.md",
     "650N-HA控制/分享文档/2.微调过程.md",
     "650N-HA控制/分享文档/1.ha控制逻辑.md",
     "技巧相关/moba破解.md",
@@ -203,7 +205,6 @@
     "HiM5唤醒/0.数据搜集.md",
     "650N-HA控制/7.展示方案.md",
     "650N-HA控制/3.过程.md",
-    "650N-HA控制/2.问题.md",
     "file/Pasted image 20251203121112.png",
     "file/Pasted image 20251203121053.png",
     "技术周报/img",
