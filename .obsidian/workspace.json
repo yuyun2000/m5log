@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-26.md",
+                "file": "open-webui部署/0.安装&运行.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-26"
+              "title": "0.安装&运行"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
-    "open-webui部署/0.安装&运行.md",
     "2025-12-26.md",
+    "open-webui部署/0.安装&运行.md",
     "技巧相关/M5Stack AI工具使用手册.md",
     "技巧相关/翻墙教程.md",
     "file/Pasted image 20251225102058.png",
