@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "650N-HA控制/分享文档/2.在AX8850或其他爱芯设备上部署微调的模型.md",
+                "file": "650N-HA控制/分享文档/2.知乎版本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.在AX8850或其他爱芯设备上部署微调的模型"
+              "title": "2.知乎版本"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "cda5490919acbb50",
   "lastOpenFiles": [
+    "650N-HA控制/分享文档/2.在AX8850或其他爱芯设备上部署微调的模型.md",
+    "650N-HA控制/分享文档/2.知乎版本.md",
     "file/Pasted image 20251230101449.png",
     "650N-HA控制/分享文档/图.md",
-    "650N-HA控制/分享文档/2.在AX8850或其他爱芯设备上部署微调的模型.md",
     "650N-HA控制/分享文档/1.知乎版本1.md",
     "650N-HA控制/分享文档/1.2.微调过程.md",
     "650N-HA控制/分享文档/1.1.ha控制逻辑.md",
@@ -206,7 +207,6 @@
     "Chatbot相关/指标统计/6.1-3日统计.md",
     "rag部署/1.ragflow+bgem3 和 豆包知识库 检索效果对比.md",
     "file/Pasted image 20251203121112.png",
-    "file/Pasted image 20251203121053.png",
     "技术周报/img",
     "技术周报",
     "650N-HA控制/分享文档",
