@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技巧相关/模型微调相关.md",
+                "file": "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模型微调相关"
+              "title": "23.乐鑫ai加入m5数据前后对比"
             }
           }
         ]
@@ -171,30 +171,31 @@
   },
   "active": "edeb6f86d28ff77c",
   "lastOpenFiles": [
+    "file/Pasted image 20260104160334.png",
+    "file/Pasted image 20260104160304.png",
+    "file/Pasted image 20260104160219.png",
+    "file/Pasted image 20260104160124.png",
+    "file/Pasted image 20260104160101.png",
+    "file/Pasted image 20260104155800.png",
+    "file/Pasted image 20260104155700.png",
+    "技巧相关/模型微调相关.md",
+    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "file/Pasted image 20260104100847.png",
     "file/Pasted image 20260104100354.png",
     "file/Pasted image 20260104093940.png",
     "file/Pasted image 20260104093210.png",
     "650N-HA控制/分享文档/2.在AX8850或其他爱芯设备上部署微调的模型.md",
-    "技巧相关/模型微调相关.md",
     "650N-HA控制/分享文档/1.2.微调过程.md",
     "技术周报/3.产品发布时间.md",
     "README.md",
     "650N-HA控制/分享文档/2.知乎版本.md",
     "650N-HA控制/分享文档/图.md",
-    "file/Pasted image 20251230102815.png",
-    "file/Pasted image 20251230101449.png",
     "650N-HA控制/分享文档/1.知乎版本1.md",
     "650N-HA控制/分享文档/1.1.ha控制逻辑.md",
     "open-webui部署/0.安装&运行.md",
     "2025-12-26.md",
     "技巧相关/M5Stack AI工具使用手册.md",
     "技巧相关/翻墙教程.md",
-    "file/Pasted image 20251225102058.png",
-    "file/Pasted image 20251225101946.png",
-    "file/Pasted image 20251225101855.png",
-    "file/Pasted image 20251225101747.png",
-    "file/Pasted image 20251225101117.png",
     "技巧相关/moba破解.md",
     "产品图/若干文生图模型效果对比.md",
     "Chatbot相关/22.破解测试.md",
@@ -206,7 +207,6 @@
     "650-文生图/从0部署一个c站模型-sd1.5版本/知乎版本.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/b站分享版本.md",
     "650-文生图/从0部署一个c站模型-sd1.5版本/关于大尺寸下模型转换失败的问题.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/不同采样器不同步数的比较.md",
     "技术周报/img",
     "技术周报",
     "650N-HA控制/分享文档",
