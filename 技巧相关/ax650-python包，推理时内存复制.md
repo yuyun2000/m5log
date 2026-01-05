@@ -27,13 +27,13 @@
             raise TypeError(f"Unable to load model from type '{type(path_or_bytes)}'")
 ```
 系统原本内存占用为1.35G
-![](Pasted%20image%2020251030161719.png)
+![](../file/Pasted%20image%2020251030161719.png)
 
 图中是 "`_axe.py`" 中加载模型的片段，加载完模型后内存占用
-![](Pasted%20image%2020251030161448.png)
+![](../file/Pasted%20image%2020251030161448.png)
 
 如果使用注释段的代码替换第一个if，重新加载占用
-![](Pasted%20image%2020251030161355.png)
+![](../file/Pasted%20image%2020251030161355.png)
 节省了0.23g，模型文件大小250MB，差不多对的上
 
 

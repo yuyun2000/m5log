@@ -1,6 +1,6 @@
-![](17e2e637c788e686866a7ab2a5cabf13.jpg)
+![](../file/17e2e637c788e686866a7ab2a5cabf13.jpg)
 左侧为StackChan，主控ESP32，可爱的桌面机器人；右侧为AI-Pyramid，主控AX8850，为本次demo的计算中心
-![](eff7cdf28a4e50bc8c22fc3fca2c6d4c.jpg)
+![](../file/eff7cdf28a4e50bc8c22fc3fca2c6d4c.jpg)
 
 #### 🚀 M5Stack Edge AI Home Assistant 解决方案 (Demo @ CES)
 
