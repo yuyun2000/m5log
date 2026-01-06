@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术周报/2026 CES m5stack-demo.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026 CES m5stack-demo"
+              "title": "24.todolist"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatbot相关/10.测试记录.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "10.测试记录 的反向链接列表"
+              "title": "24.todolist 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatbot相关/10.测试记录.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "10.测试记录 的出链列表"
+              "title": "24.todolist 的出链列表"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatbot相关/10.测试记录.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "10.测试记录 的大纲"
+              "title": "24.todolist 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,13 +172,21 @@
   },
   "active": "edeb6f86d28ff77c",
   "lastOpenFiles": [
-    "技术周报/immch.md",
+    "Chatbot相关/1.目前的需求.md",
+    "Chatbot相关/24.todolist.md",
+    "Chatbot相关/2.初步设计流程.md",
+    "Chatbot相关/M5Stack开发实战：从BLE键盘到Matter智能照明的完整解决方案.md",
+    "Chatbot相关/M5Chat-MCP服务器使用文档.md",
+    "Chatbot相关/模型评测数据收集.md",
+    "Chatbot相关/21.使用双层模型的效果对比.md",
+    "Chatbot相关/13.模型测评系统.md",
+    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "技术周报/2026 CES m5stack-demo.md",
+    "技术周报/immch.md",
     "技术周报/3.产品发布时间.md",
     "file/eff7cdf28a4e50bc8c22fc3fca2c6d4c 1.jpg",
     "file/eff7cdf28a4e50bc8c22fc3fca2c6d4c.jpg",
     "file/17e2e637c788e686866a7ab2a5cabf13.jpg",
-    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "file/Pasted image 20260104161349.png",
     "file/Pasted image 20260104160334.png",
     "file/Pasted image 20260104160304.png",
@@ -199,13 +208,6 @@
     "技巧相关/翻墙教程.md",
     "技巧相关/moba破解.md",
     "产品图/若干文生图模型效果对比.md",
-    "Chatbot相关/22.破解测试.md",
-    "技术周报/M5Stack-AI技术助手.md",
-    "650N-HA控制/8.和离线的助手对比.md",
-    "650N-ASR/sensevoice误差探究/1.问题发现.md",
-    "650N-ASR/sensevoice误差探究/0.原生推理的简单流程.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/知乎版本.md",
-    "650-文生图/从0部署一个c站模型-sd1.5版本/b站分享版本.md",
     "技术周报/img",
     "技术周报",
     "650N-HA控制/分享文档",
