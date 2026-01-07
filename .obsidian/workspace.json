@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
+                "file": "技巧相关/ces-vlm demo调试流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23.乐鑫ai加入m5数据前后对比"
+              "title": "ces-vlm demo调试流程"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
+                "file": "技巧相关/ces-vlm demo调试流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "23.乐鑫ai加入m5数据前后对比 的反向链接列表"
+              "title": "ces-vlm demo调试流程 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
+                "file": "技巧相关/ces-vlm demo调试流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "23.乐鑫ai加入m5数据前后对比 的出链列表"
+              "title": "ces-vlm demo调试流程 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
+                "file": "技巧相关/ces-vlm demo调试流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "23.乐鑫ai加入m5数据前后对比 的大纲"
+              "title": "ces-vlm demo调试流程 的大纲"
             }
           }
         ],
@@ -187,9 +187,12 @@
   },
   "active": "6b9227dd517043d8",
   "lastOpenFiles": [
-    "file/Pasted image 20260106115149.png",
+    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
+    "技巧相关/ces-vlm demo调试流程.md",
     "file/Pasted image 20260106112752.png",
     "file/Pasted image 20260106112049.png",
+    "Chatbot相关/22.破解测试.md",
+    "file/Pasted image 20260106115149.png",
     "file/Pasted image 20260106111250.png",
     "file/Pasted image 20260106111237.png",
     "file/Pasted image 20260106110904.png",
@@ -197,7 +200,6 @@
     "file/Pasted image 20260106110304.png",
     "file/Pasted image 20260106110209.png",
     "file/Pasted image 20260106110205.png",
-    "file/Pasted image 20260106104831.png",
     "Chatbot相关/24.todolist.md",
     "Chatbot相关/1.目前的需求.md",
     "Chatbot相关/2.初步设计流程.md",
@@ -206,7 +208,6 @@
     "Chatbot相关/模型评测数据收集.md",
     "Chatbot相关/21.使用双层模型的效果对比.md",
     "Chatbot相关/13.模型测评系统.md",
-    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "技术周报/2026 CES m5stack-demo.md",
     "技术周报/immch.md",
     "技术周报/3.产品发布时间.md",
@@ -222,7 +223,6 @@
     "2025-12-26.md",
     "技巧相关/M5Stack AI工具使用手册.md",
     "技巧相关/翻墙教程.md",
-    "技巧相关/moba破解.md",
     "技术周报/img",
     "技术周报",
     "650N-HA控制/分享文档",
