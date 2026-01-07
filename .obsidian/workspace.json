@@ -35,8 +35,7 @@
               "title": "ces-vlm demo调试流程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧相关/ces-vlm demo调试流程.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ces-vlm demo调试流程 的反向链接列表"
+              "title": "24.todolist 的反向链接列表"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧相关/ces-vlm demo调试流程.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ces-vlm demo调试流程 的出链列表"
+              "title": "24.todolist 的出链列表"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技巧相关/ces-vlm demo调试流程.md",
+                "file": "Chatbot相关/24.todolist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ces-vlm demo调试流程 的大纲"
+              "title": "24.todolist 的大纲"
             }
           }
         ],
@@ -185,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b9227dd517043d8",
+  "active": "edeb6f86d28ff77c",
   "lastOpenFiles": [
-    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "技巧相关/ces-vlm demo调试流程.md",
+    "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "file/Pasted image 20260106112752.png",
     "file/Pasted image 20260106112049.png",
     "Chatbot相关/22.破解测试.md",
