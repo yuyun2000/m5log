@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hf-m",
+                "query": "hf-mexp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edeb6f86d28ff77c",
+  "active": "23ebf18805b65ba7",
   "lastOpenFiles": [
     "file/Pasted image 20260110115208.png",
     "file/Pasted image 20260110114412.png",
