@@ -187,6 +187,12 @@
   },
   "active": "a473ccd541bc22b7",
   "lastOpenFiles": [
+    "file/video(12).mp4",
+    "file/video(11).mp4",
+    "file/455ab25b-a314-4e0f-a49c-08df0d9a711c.jpg",
+    "file/c7211e01-68ec-42d7-bc32-fb8f253b0188.jpg",
+    "file/02ae0ee1-7d7d-4bb7-a2f9-7bfae9ef82cc.jpg",
+    "file/77ea4adb-54dc-47e8-90a6-39f4b7a1fbcc.jpg",
     "其他/企业微信机器人.md",
     "Chatbot相关/25.arduino-workflow和chatbot的对比.md",
     "其他/我帮助你，你帮助他，素未谋面.md",
@@ -197,11 +203,7 @@
     "file/Pasted image 20260119103946.png",
     "file/Pasted image 20260119103928.png",
     "file/08b56dcaa2e91599666ed293095fe00e.jpg",
-    "file/Pasted image 20260119103122.png",
-    "file/f6e8e53945a9a29d7e37a910bb102ca1.jpg",
-    "file/220feeb9e18f6bcf44bbaa211d82c96e.jpg",
     "conflict-files-obsidian-git.md",
-    "file/Pasted image 20260114150705.png",
     "技术周报/M5Stack-AI技术助手.md",
     "技术周报/immch.md",
     "技术周报/2026 CES m5stack-demo.md",
@@ -223,7 +225,6 @@
     "Chatbot相关/22.破解测试.md",
     "Chatbot相关/1.目前的需求.md",
     "Chatbot相关/2.初步设计流程.md",
-    "Chatbot相关/M5Stack开发实战：从BLE键盘到Matter智能照明的完整解决方案.md",
     "技术周报/img",
     "技术周报",
     "650N-HA控制/分享文档",
@@ -231,7 +232,6 @@
     "产品图",
     "650N-ASR/sensevoice误差探究",
     "650N-ASR",
-    "rag部署",
-    "650-文生图/从0部署一个c站模型-sd1.5版本"
+    "rag部署"
   ]
 }
