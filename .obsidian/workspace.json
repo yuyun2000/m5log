@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatbot相关/m5-arduino在用仓库.md",
+                "file": "Chatbot相关/豆包知识库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "m5-arduino在用仓库"
+              "title": "豆包知识库"
             }
           }
         ],
@@ -187,8 +187,10 @@
   },
   "active": "a473ccd541bc22b7",
   "lastOpenFiles": [
-    "Chatbot相关/25.arduino-workflow和chatbot的对比.md",
+    "file/FL_3`9I7@ZY[~U%S[ZV96$S.png",
     "Chatbot相关/m5-arduino在用仓库.md",
+    "Chatbot相关/豆包知识库.md",
+    "Chatbot相关/25.arduino-workflow和chatbot的对比.md",
     "Chatbot相关/24.todolist.md",
     "file/6f798b000419e93e0e188f8c7068179f.jpg",
     "file/914aab8c-7ef4-4208-b833-02c30fd314bd.jpg",
@@ -225,8 +227,6 @@
     "其他",
     "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "Chatbot相关/22.破解测试.md",
-    "Chatbot相关/1.目前的需求.md",
-    "Chatbot相关/2.初步设计流程.md",
     "技术周报/img",
     "技术周报",
     "650N-HA控制/分享文档",
