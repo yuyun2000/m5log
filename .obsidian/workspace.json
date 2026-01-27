@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术周报/从 M5Stack 后台的一条日志，到 600 公里外的合浦救助站.md",
+                "file": "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "从 M5Stack 后台的一条日志，到 600 公里外的合浦救助站"
+              "title": "23.乐鑫ai加入m5数据前后对比"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "豆包知识库"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,14 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a473ccd541bc22b7",
+  "active": "6b9227dd517043d8",
   "lastOpenFiles": [
+    "Chatbot相关/25.arduino-workflow和chatbot的对比.md",
+    "其他/M5Stack全球代理商.md",
+    "技术周报/从 M5Stack 后台的一条日志，到 600 公里外的合浦救助站.md",
+    "Chatbot相关/豆包知识库.md",
     "file/Pasted image 20260126181149.png",
     "file/Pasted image 20260126181132.png",
     "file/FL_3`9I7@ZY[~U%S[ZV96$S.png",
     "Chatbot相关/m5-arduino在用仓库.md",
-    "Chatbot相关/豆包知识库.md",
-    "Chatbot相关/25.arduino-workflow和chatbot的对比.md",
     "Chatbot相关/24.todolist.md",
     "file/6f798b000419e93e0e188f8c7068179f.jpg",
     "file/914aab8c-7ef4-4208-b833-02c30fd314bd.jpg",
@@ -204,10 +205,8 @@
     "file/video(11).mp4",
     "file/455ab25b-a314-4e0f-a49c-08df0d9a711c.jpg",
     "file/c7211e01-68ec-42d7-bc32-fb8f253b0188.jpg",
-    "file/02ae0ee1-7d7d-4bb7-a2f9-7bfae9ef82cc.jpg",
     "其他/企业微信机器人.md",
     "其他/我帮助你，你帮助他，素未谋面.md",
-    "技术周报/从 M5Stack 后台的一条日志，到 600 公里外的合浦救助站.md",
     "conflict-files-obsidian-git.md",
     "技术周报/M5Stack-AI技术助手.md",
     "技术周报/immch.md",
@@ -223,7 +222,6 @@
     "650N-HA控制/5.微调&模型导出.md",
     "650N-HA控制/6.控制.md",
     "650N-HA控制/7.展示方案.md",
-    "其他/M5Stack全球代理商.md",
     "其他",
     "Chatbot相关/23.乐鑫ai加入m5数据前后对比.md",
     "Chatbot相关/22.破解测试.md",
